@@ -24,7 +24,7 @@ Pharo.exe ../Baseline.image
 
 ## Open a Project
 
-There are three projects under study, depending on the project you wanna use for the task one of the following scripts.
+There are three projects under study, depending on the project you want to use for the task one of the following scripts.
 
 **Roassal**
 ```
